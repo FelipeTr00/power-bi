@@ -13,3 +13,5 @@
 ## Regressão Linear
 
 <img src="RegressaoLinear/src/dashboard.png" style="height: 300px;">
+
+## [Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiZWFhNWY4NmMtOTdiMy00MmFiLTk3MjYtYWY2MzJkODdmNzcxIiwidCI6ImNlYWJmNjMxLWRlODItNGZiZC1iZjcxLTJiZmRiNTlkM2ViOCJ9)
