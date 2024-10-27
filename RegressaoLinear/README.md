@@ -1,4 +1,4 @@
-## DASHBOARD VENDAS - LOJA DE CELULARES
+## DASHBOARD REGRESSÃO LINEAR
 <img src="src/dashboard.png" alt="Dash - Vendas" style="height: 400px;">
 
 ---
