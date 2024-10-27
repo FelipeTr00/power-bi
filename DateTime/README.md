@@ -3,4 +3,4 @@
 
 ---
 
-<img src="../power-bi.svg" alt="Power BI Logo" style="height: 200px;">
+<img src="../power-bi.svg" alt="Power BI Logo" style="height: 100px;">
