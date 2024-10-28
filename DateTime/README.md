@@ -58,4 +58,4 @@
 
 ---
 
-<img src="../power-bi.svg" alt="Power BI Logo" style="height: 100px;">
+<img src="../src/power-bi.svg" alt="Power BI Logo" style="height: 100px;">
